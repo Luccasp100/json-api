@@ -1,0 +1,164 @@
+{
+  "aluraflix": [
+    {
+      "id": 1,
+      "titulo": "Principais dúvidas sobre começar na carreira de FRONT-END",
+      "descricao": "Fernanda Degolin, desenvolvedora Front-end na Rede Globo, respondeu todas as DÚVIDAS MAIS FREQUENTES de quem está iniciando nessa área.",
+      "imagem": "https://i.ytimg.com/vi/I6xTDxkjjqk/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/I6xTDxkjjqk",
+      "categoria": "FRONT END"
+    },
+    {
+      " id:": 2,
+      "titulo": "Guia de carreira Front-end",
+      "descricao": "Nesse episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado.",
+      "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/fpth65ts3cw",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 3,
+      "titulo": "Métricas para o Front End com Mario Souto",
+      "descricao": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site.",
+      "imagem": "https://i.ytimg.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/iVNR-6v8lZU",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 4,
+      "titulo": "Diferença entre Back-End e Front-End com Mario Souto",
+      "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? ",
+      "imagem": "https://i.ytimg.com/vi/xrRy3RI3HE4/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/xrRy3RI3HE4",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 5,
+      "titulo": "O que é JavaScript?",
+      "descricao": "JavaScript: o que é e como surgiu essa linguagem que gera muitas discussões e debates entre as pessoas da área do desenvolvimento? A Vanessa e o Mario conversaram exatamente sobre isto neste vídeo.",
+      "imagem": "https://i.ytimg.com/vi/NaVSbnnV75Q/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/NaVSbnnV75Q",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 6,
+      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+      "descricao": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/fiPfvylj6rk",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 7,
+      "titulo": "Como se tornar um desenvolvedor BACKEND?",
+      "descricao": "Recentemente fiz um video passo a passo sobre como se tornar um desenvolvedor Frontend e atendendo a pedidos, volto aqui com um passo a passo, um RoadMap de tudo que você precisa saber para se tornar um desenvolvedor Backend. ",
+      "imagem": "https://i.ytimg.com/vi/wXMlMsDvk2M/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/wXMlMsDvk2M",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 8,
+      "titulo": "Como Estudar PROGRAMAÇÃO | Guia Back-End",
+      "descricao": "Quer ser um desenvolvedor back-end? Hoje vamos falar um pouco sobre o que é necessário estudar para você se tornar um programador back-end.",
+      "imagem": "https://i.ytimg.com/vi/LbKDxQ0jX90/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/LbKDxQ0jX90",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 9,
+      "titulo": "PORTFÓLIO BACK-END JAVASCRIPT/NODE.JS: como fazer",
+      "descricao": "Portfólio de Back-end JAVASCRIPT: PASSO A PASSO de como desenvolver um serviço de integração de API de filmes com sinopses em português",
+      "imagem": "https://i.ytimg.com/vi/YVs-BXViC7o/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/YVs-BXViC7o",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 10,
+      "titulo": "Guia de Carreira NODE.JS",
+      "descricao": "Com o Guia de Carreira Node.JS, aprenda o que é a NODE.JS e quais as vantagens do uso deste framework com a linguagem de programação JAVASCRIPT.",
+      "imagem": "https://i.ytimg.com/vi/aKtpRRe-AEU/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/aKtpRRe-AEU",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 11,
+      "titulo": "Tecnologia e Inovação",
+      "descricao": "O episódio “Tecnologia e Inovação” aborda o fenômeno da revolução tecnológica e a democratização do acesso à informação no mundo.",
+      "imagem": "https://i.ytimg.com/vi/3_KCMvCIcPw/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/3_KCMvCIcPw",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 12,
+      "titulo": "Criatividade e inovação no trabalho.",
+      "descricao": "Criatividade e inovação no trabalho. Toda Importância para se destacar no mercado.",
+      "imagem": "https://i.ytimg.com/vi/6Q94wOEiO84/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/6Q94wOEiO84",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 13,
+      "titulo": "Steven Johnson: Como nasce a inovação",
+      "descricao": "A inovação não vem em um momento 'eureka'. São mais de 20 anos pesquisando e escrevendo sobre inovações. ",
+      "imagem": "https://i.ytimg.com/vi/2A8qwMaxhfc/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/2A8qwMaxhfc",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 14,
+      "titulo": "Como aprender programação de forma INTELIGENTE",
+      "descricao": "Nesse vídeo vamos entender como aprender programação de forma inteligente, sem perder tempo com coisas inúteis para que você perceba que para se destacar na área de desenvolvimento (se tornando programador ou desenvolvedor)",
+      "imagem": "https://i.ytimg.com/vi/OqiuC8bdxb4/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/OqiuC8bdxb4",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 15,
+      "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa",
+      "descricao": "Aprender a programar pode ser frustrante, principalmente se você estiver diante de um tópico avançado, o que é ótimo, porque este vídeo é sobre quais técnicas eu uso e sobre como aprender a programar sozinho, depois de meses de observação. E essas técnicas servem não somente para tópicos avançados, mas também para quando você estiver tratando de tópicos na programação para iniciantes ou quer aprender a programar do zero. ",
+      "imagem": "https://i.ytimg.com/vi/ZtMzB5CoekE/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/ZtMzB5CoekE",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 16,
+      "titulo": "Gestão empresarial. O que é?",
+      "descricao": "Gestão empresarial. O que é? Veja 7 dicas muito simples para trabalhá-la do jeito certo.",
+      "imagem": "https://i.ytimg.com/vi/ejZ9DKnKrYM/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/ejZ9DKnKrYM",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 17,
+      "titulo": "Como desenvolver boas práticas de programação? com Fabio Akita",
+      "descricao": "A tecnologia não para de evoluir e sempre surgem novas formas de escrever um código. Por isso, aplicar boas práticas de programação é fundamental para aprimorar o ambiente de trabalho, ter qualidade no momento de programar e manter o código legível, organizado e funcional",
+      "imagem": "https://i.ytimg.com/vi/GUanHEGlje4/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/GUanHEGlje4",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 18,
+      "titulo": "Diferentes carreiras em tecnologia",
+      "descricao": "Conheça várias das mais diversas carreiras dentro da área de tecnologia, além de programação, e aproveite também para conhecer a EBAC, que inclusive oferece diversos cursos dessas profissões comentadas no vídeo!",
+      "imagem": "https://i.ytimg.com/vi/3gPZ02Iqr-0/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/3gPZ02Iqr-0",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 19,
+      "titulo": "ADS ou Gestão de TI? Qual carreira escolher na tecnologia?",
+      "descricao": "Estou pensando em trabalhar com gestão de pessoas em tecnologia, qual curso é mais recomendado? Análise e Desenvolvimento de Sistemas (ADS) ou Gestão de TI?",
+      "imagem": "https://i.ytimg.com/vi/jn8sVHk950w/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/jn8sVHk950w",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 20,
+      "titulo": "Cortes da Alura: FRAMEWORK x BIBLIOTECA — quais são as principais diferenças NA PRÁTICA",
+      "descricao": "Entenda, de uma vez por todas, qual é a diferença entre FRAMEWORK e BIBLIOTECA",
+      "imagem": "https://i.ytimg.com/vi/v01-cdttEyU/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/v01-cdttEyU",
+      "categoria": "GESTÃO"
+    }
+  ]
+}
